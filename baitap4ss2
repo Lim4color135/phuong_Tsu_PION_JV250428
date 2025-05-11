@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initiaal-scale=1.0">
+        <table>DANG NHAP</table>
+    </head>
+    <body>
+        <from action="">
+          <label for="Ten Dang Nhap"></label>
+          <input type="text"><br/>
+          <label for="username">Mat khau</label>
+          <input type="password" name="" id="username"/><br/>
+          <button>DANG NHAP</button>
+        </from>
+    </body>
+</html>
