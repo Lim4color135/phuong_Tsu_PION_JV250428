@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initiaal-scale=1.0">
+        <table>Document</table>
+        <main>
+          <h1>Trang web ban hang</h1> 
+          <p><a>Trang chu</a></p>
+          <p><a>san pham</a></p>
+          <p><a>gioi thieu</a></p>
+          <p><a>Trang chu</a></p>
+          <h2>Thong tin san pham</h2>
+          <table border="1"> </table>
+          <thead>
+            <tr>
+                <th>Ten san phan</th>
+                <th>Mo ta</th>
+                <th>Gia</th>
+                <th>So luong</th>
+            </tr>
+            <tr>
+                <td>San pham 1</td>
+                <td>mo ta san pham 1</td>
+                <td>100000d</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>San phan 2</td>
+                <td>mo ta san pham 2</td>
+                <td>200000d</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>San pham3</td>
+                <td>mo ta san pham 3</td>
+                <td>300000d</td>
+                <td>3</td>
+            </tr>
+          </thead>
+          <h2>Thong Tin nguoi dung</h2>
+          <form action="">
+            <label for="username">Ho va Ten</label><br>
+            <input type="text" id="username" name="username"><br>
+            <label for="EMAIL">Email</label><br>
+            <input type="email" id="email" name="email"><br>
+            <label for="number">So dien thoai</label><br>
+            <input type="number" id="number" name="number"><br>
+            <label for="address">Dia chi</label><br>
+            <input type="text" id="address" name="address"><br>
+            <button type="submit">Dat hang</button>
+          </form>
+          &copy;2023 Trang web ban hang
+        </main>
+    </head>
+</html> 
