@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initiaal-scale=1.0">
+        <table>thong tin san pham cua hang cua toi</table>
+    </head>
+    <main>
+        <h1>MY STORE</h1>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Item photo</th>
+                    <th>name</th>
+                    <th>Price</th>
+                </tr>
+                <tr>
+                    <td><img src="oranges.jpg" alt="oranges" width="50"></td>
+                    <td>oranges</td>
+                    <td>$1 ea</td>
+                </tr>
+                <tr>
+                    <td><img src="" alt="banana"></td>
+                    <td>Banana</td>
+                    <td>&0.75/ld</td>
+                </tr>
+                <tr>
+                    <td><img src="Pomegranates.jpg" alt="Pomegranates" width="50"></td>
+                    <td>Pomegranates</td>
+                    <td>3 for $5</td>
+                </tr>
+                <tr>
+                    <td><img src="" alt="Bummy bears"></td>
+                    <td>Bummy bears</td>
+                    <td>$6 ber pag</td>
+                </tr>
+                <tr>
+                    <td><img src="Broccoli.jpg" alt="Broccoli" width="50"></td>
+                    <td>Broccoli</td>
+                    <td>$3 a head</td>
+                </tr>
+            </thead>
+                <p>booking Form</p>
+                <form action="">
+                    <label for="username">name</label>
+                    <input type="text" id="username" name="username">
+                    <label for="EMAIL">Email</label>
+                    <input type="email" id="email" name="email">
+                    <label for="phone">phone</label>
+                    <input type="phone" id="phone" name="phone">
+                    <label for="date time">date</label>
+                    <input type="datetime" id="datetime" name="datetime">
+                    <label for="time">time</label>
+                    <input type="time" id="time" name="time">
+                    <label for="quantiti">Numbet of Guests</label>
+                    <input type="number" id="number" name="number">
+                    <button>submit</button>
+                </form>
+                <p>Cat Purchase Form</p>
+                <form>
+                    <label for="username">name</label>
+                    <input type="username" id="username" name="username">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email">
+                    <label for="phone">phone</label>
+                    <input type="phone" id="phone" name="phone">
+                    <select name="choose a car">
+                        <option value="">Model 1</option>
+                    </select>
+                    <section name="choose a color">
+                        <option value="">Red</option>
+                    </section>
+                    <label for="quantiti">quantity</label>
+                    <input type="number" id="quantity" name="quantity" min="" max="">
+                    <label for="datetime">Delivery</label>
+                    <input type="datetime" id="datetime" name="datetime">
+                    <button>submit</button>
+                </form>
+        </table>
+    </main>
+</html>
