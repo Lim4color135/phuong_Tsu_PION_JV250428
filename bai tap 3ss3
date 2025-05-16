@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title> tam quan trong cua HTML tron phat trien web</title>
+    </head>
+    <body>
+       <h1> Tan Quan Trong Cua HTML Tron Phat Trien Web</h1><br>
+        Ngay25/12/2024_Tac Gia:Nguyen Van A
+        <h2> Gioi Thieu</h2>
+        HTML (HyperText Makup Language)La ngo ngu cot loi duoc su dung de xay dung va thiet ke cau truc trang web .HTML dinh nghia cac phan tu co ban nhu tieu de ,doan van, hinh anh<br>lien ket va nhieu hon nua
+        <h2>Tai sao HTML qua trong</h2>
+        HTML dong vai tro laf bo khung cua trang web.No khong chi giup trinh bay noi dung ma con lan viec song hanh voi CSS va javaScript de tao ra trai nghiem mguoi dung phong phu.
+        <strong>Dinh hinh noi dung web</strong>
+        <strong>Ho tro cac cong nghe hien dai nhu SEO va Responsive Design.</strong>
+        <strong>Ket hop voi CSS de cai thien giao dien </strong>
+        <h2>Ket luan</h2>
+        HTML la buoc dau tien trong hanh trinh hoc phat trien web.Hieu ro va su dung thanh thao HTML se giup ban xay dung nen tang vung chac de hoc cac cong nghe web khac.<br>
+        &copy;2024 Nguyen Van A Tat ca cac quyen duoc bao luu 
+        <script src="" async defer></script>
+    </body>
+</html>
