@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Loai san pham</th>
+                    <th>Ten san pham</th>
+                    <th>Gia</th>
+                </tr>
+                <tr>
+                    <td rowspan="2">Dien tu</td>
+                    <td>Lap top</td>
+                    <td>15000000</td>
+                </tr>
+                <tr>
+                    <td>Dien thoai</td>
+                    <td>8000000</td>
+                </tr>
+                <tr>
+                    <td>Gia dung</td>
+                    <td>May giat</td>
+                    <td>5000000</td>
+                </tr>
+            </thead>
+        </table>
+    </body>
+</html>
