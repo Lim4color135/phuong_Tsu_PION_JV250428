@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Document</title>
+    </head>
+    <body>
+        <h1> Tim Kiem San Pham</h1>
+        <form action="">
+            <label for="">Tu khoa tim kiem:</label><br/>
+            <input type="text"><br/>
+            <br/>
+            <label for="">Loai San Pham:</label>
+            <select>
+                <option value="option 1">Dien tu</option>
+            </select>
+            <button>Tim kiem</button>
+        </form>
+    </body>
+</html>
