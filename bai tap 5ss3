@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Document</title>
+    </head>
+    <body>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Thang</th>
+                    <th>Ti le don hang theo thang</th>
+                    <th colspan="2">Ti le don hang theo thang</th>
+                </tr>
+                <tr>
+                    <td>Nguyen Van A</td>
+                    <td>15% hoan thanh</td>
+                    <td>85% huy hang</td>
+                </tr>
+                <tr>
+                    <td>Phan van B</td>
+                    <td>25% hoan than</td>
+                    <td>75% huy hang</td>
+                </tr>
+                <tr>
+                    <td>Nguyen thi C</td>
+                    <td>50% hoan thanh</td>
+                    <td>50% huy hang</td>
+                </tr>
+            </thead>
+        </table>
+    </body>
+</html>
