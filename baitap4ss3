@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <table>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </table>
+    <tbody>
+        <thead>
+            <tr>
+                <th>TEN</th>
+                <th>TUOI</th>
+                <th>NGHE NGHIEP</th>
+            </tr>
+            <tr>
+                <td>An</td>
+                <td>25</td>
+                <td>Lap trinh vien</td>
+            </tr>
+            <tr>
+                <td>Bao</td>
+                <td>30</td>
+                <td>Ky su xay dung</td>
+            </tr>
+            <tr>
+                <td>Chi</td>
+                <td>22</td>
+                <td>Sinh Vien</td>
+            </tr>
+        </thead>
+    </tbody>
+</html>
