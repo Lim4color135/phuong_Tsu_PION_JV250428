@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <tbody>
+        <h1>So Thich Cua Ban</h1>
+        <form action="">
+            <label for="text">Ho va ten</label>
+            <input type="text"/>
+            <br/>
+            <label for="EMAIL">Email</label>
+            <input type="email"/>
+            <br/>
+            <label for="">So thich</label>
+            <input type="checkbox"/>The thao <input type="checkbox"/>Am nhac <input type="checkbox"/>Doc sach
+            <input type="checkbox"/>Luot web <input type="checkbox"/>Choi game <input type="checkbox"/>Dien anh
+            <input type="checkbox"/>Du lich
+            <br/>
+            <button>Gui thong tin</button><button>Nhap lai</button>
+        </form>
+    </tbody>
+</html>
