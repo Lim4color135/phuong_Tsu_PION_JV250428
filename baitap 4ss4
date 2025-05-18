@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Document</title>
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <p>
+            A<b>website</b>(also writte as a <b>web site</b>) is one or more<span class="text">web pages</span> related content that is
+            identified by a common <span class="text">domain name</span>and published on at least one <span class="text">web server</span>.websites are
+            tipically dedicated to a particular topic or purpos, such as news, education, commerce,
+            entertainment,or <span class="text">social media. hyperlinking </span>between web pages guides the navigation of the
+            site,wich often starst with a <span class="text">home page</span>.the<span class="text">most-visited </span> sites are <span class="text">Google,you tube</span>,and
+            <span class="text" >Facebook</span>
+        </p>
+        <p>
+            all publicly-accessible websites collectively constitute the <span class="text">world wide web</span>.there are also 
+            private websites collectively constitute the<span class="text">world wide web</span>.there are also 
+            website for its employees .<span class="text">Users</span> can access websites on a range of devices,including 
+            <span class="text">desktops, laptops, tablets,</span> and <span class="text">smartphones.</span>the <span class="text"> app</span>used on these devices is called a <span class="text">web 
+            wersbro</span>
+        </p>
+    </body>
+</html>
