@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Document</title>
+        <link rel="stylesheet" href="./file css3/">
+    </head>
+    <body>
+       <h1>Lien he voi chung toi</h1>
+       <form action="">
+        <div>
+            <label for="username">Ho va te</label>
+            <input type="text"><br/>
+        </div>
+        <div>
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email"><br/>
+        </div>
+        <div>
+            <label for="">Tin nhan</label>
+            <input type="text" name="message"><br/>
+        </div>
+        <div>
+            <button>Gui</button>
+        </div>
+       </form>
+    </body>
+</html>
