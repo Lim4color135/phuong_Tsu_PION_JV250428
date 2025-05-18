@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Document</title>
+        <link rel="stylesheet" href="./file css2">
+    </head>
+    <body>
+       <h1>Trang web cua toi</h1>
+       <a href="">Trang chu</a>
+       <a href="">Gioi thieu</a>
+       <a href="">San pham</a>
+       <a href="">Lien he</a>
+    </body>
+</html>
